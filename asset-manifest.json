@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.8ad3f543.css",
+    "main.js": "/my-portfolio/static/js/main.e4ff8782.js",
+    "static/css/64.bba8fa55.chunk.css": "/my-portfolio/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/my-portfolio/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/my-portfolio/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.bda0d7b7.chunk.js": "/my-portfolio/static/js/769.bda0d7b7.chunk.js",
+    "static/media/waterdb2.png": "/my-portfolio/static/media/waterdb2.944b28cde8d3ca4ea760.png",
+    "static/media/crimea.png": "/my-portfolio/static/media/crimea.9e15386a8912e354a68f.png",
+    "static/media/books.png": "/my-portfolio/static/media/books.807c1ba2e68c2d51c90f.png",
+    "static/media/Montserrat-Regular.ttf": "/my-portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/financebot.png": "/my-portfolio/static/media/financebot.f1d77ca33c9367b9d1d5.png",
+    "static/media/Agustina.woff": "/my-portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/graphs.png": "/my-portfolio/static/media/graphs.1739e2a3088f6e15e761.png",
+    "static/media/manOnTable.svg": "/my-portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/my-portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/quoraLogo.png": "/my-portfolio/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
+    "static/media/developerActivity.svg": "/my-portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/airbnbLogo.png": "/my-portfolio/static/media/airbnbLogo.e8497507db673acd3991.png",
+    "static/media/facebookLogo.png": "/my-portfolio/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
+    "static/media/skill.svg": "/my-portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/talksCardBack.svg": "/my-portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.8ad3f543.css.map": "/my-portfolio/static/css/main.8ad3f543.css.map",
+    "main.e4ff8782.js.map": "/my-portfolio/static/js/main.e4ff8782.js.map",
+    "64.bba8fa55.chunk.css.map": "/my-portfolio/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/my-portfolio/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/my-portfolio/static/css/769.b3cbb36b.chunk.css.map",
+    "769.bda0d7b7.chunk.js.map": "/my-portfolio/static/js/769.bda0d7b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ad3f543.css",
+    "static/js/main.e4ff8782.js"
+  ]
+}
